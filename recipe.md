@@ -33,6 +33,7 @@ This recipe makes a three-layer celebration cake with a filling between each lay
 
 - [DECORATION]
 - [FINISHING TOUCH]
+- sprinkles
 
 ## Instructions
 
